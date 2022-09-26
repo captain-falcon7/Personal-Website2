@@ -29,3 +29,8 @@ h2{
 h3{
 	text-transform: uppercase;
 }
+
+img{
+	min-width: 600px;
+}
+
