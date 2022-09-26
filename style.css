@@ -37,3 +37,13 @@ img {
 	width: 40%;
 	
 }
+
+.opening-statement {
+	color: #F2AA52;
+	font-style: italic;
+	line-height: 1.5;
+}
+
+ul{
+	list-style: square;
+}
