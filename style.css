@@ -1,4 +1,4 @@
-body{
+body {
 	border-color: #c9c9c9;
 	border-style: solid;
 	border-width: 15px;
@@ -13,24 +13,25 @@ body{
 	
 }
 
-h1, h2, h3, h4, h5, h6{
+h1, h2, h3, h4, h5, h6 {
 	font-family: Arial, Helvetica, sans-serif;
 	color:#58b4f5;
 }
 
-h1{
+h1 {
 	font-size: 3.5rem;
 }
 
-h2{
+h2 {
 	font-size: 2.25rem;
 	font-weight: normal;
 }
 
-h3{
+h3 {
 	text-transform: uppercase;
 }
 
-img{
+img {
 	width: 40%;
+	display: block;
 }
