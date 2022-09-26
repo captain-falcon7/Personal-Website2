@@ -6,6 +6,7 @@ body{
 	color: #333333;
 	font-family: Times New Roman, Times, serif;
 	margin: 0 auto;
+	min-width: 600px;
 	padding: 2rem 3rem;
 	width: 60%;
 	
@@ -30,7 +31,4 @@ h3{
 	text-transform: uppercase;
 }
 
-img{
-	min-width: 600px;
-}
 
